@@ -14,7 +14,7 @@ Output class:
 2.  Iris Versicolour
 3.  Iris Virginica
 
-I compared perforamce of below five types machine learning algorithm, it turns out that SVM is the best.
+I compared perforamce of below five types machine learning algorithm, it turns out that SVM is the best. The "iris.csv" file is the traning data.
 1. Logistic Regression (LR)
 2. Linear Discriminant Analysis (LDA)
 3. K-Nearest Neighbors (KNN).

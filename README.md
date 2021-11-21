@@ -1,5 +1,5 @@
 # iris_plant_classifier
-This machine learning model which classifies class of Iris plant (Iris is a genus of 260–300[1][2] species of flowering plants with showy flowers https://en.wikipedia.org/wiki/Iris_(plant))
+This machine learning model classifies class of Iris plant (Iris is a genus of 260–300[1][2] species of flowering plants with showy flowers https://en.wikipedia.org/wiki/Iris_(plant))
 
 This Iris Plant Classifier can be inputted with data of sepal length / speal width / petal length / petal width, and predict example's class (Iris Setosa / Iris Versicolour / Iris Virginica)
 
